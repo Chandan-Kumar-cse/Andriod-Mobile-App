@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "title": "Design Principles: Organizing Visual Elements",
+  "category": "Graphic Design",
+  "price": "499/-",
+  "rating": 4.2,
+  "classes": 21,
+  "duration": "42 Hours",
+  "description": "Graphic Design is now a popular profession. This course teaches principles of organizing design elements effectively.",
+  "instructor": {
+    "name": "Robert Jr",
+    "specialization": "Graphic Design",
+    "image": "https://i.pravatar.cc/150?img=3"
+  },
+  "features": [
+    "25 Lessons",
+    "Access Mobile, Desktop & TV",
+    "Beginner Level",
+    "Audio Book",
+    "Lifetime Access",
+    "100 Quizzes",
+    "Certificate of Completion"
+  ],
+  "reviews": [
+    {
+      "name": "Will",
+      "image": "https://i.pravatar.cc/150?img=1",
+      "comment": "This course has been very useful. Mentor was well spoken and totally loved it.",
+      "rating": 4.5,
+      "likes": 578,
+      "time": "2 Weeks Ago"
+    },
+    {
+      "name": "Martha E. Thompson",
+      "image": "https://i.pravatar.cc/150?img=5",
+      "comment": "This course has been very useful. It had fun sessions as well.",
+      "rating": 4.5,
+      "likes": 578,
+      "time": "2 Weeks Ago"
+    }
+  ]
+}

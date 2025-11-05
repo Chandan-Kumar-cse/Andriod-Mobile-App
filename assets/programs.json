@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "AI for Everyone",
+    "category": "Technology",
+    "duration": "6 Weeks",
+    "rating": 4.8,
+    "image": "https://picsum.photos/300/200",
+    "description": "An introductory course on Artificial Intelligence concepts and applications."
+  },
+  {
+    "id": 2,
+    "title": "Digital Marketing Essentials",
+    "category": "Marketing",
+    "duration": "4 Weeks",
+    "rating": 4.5,
+    "image": "https://picsum.photos/300/201",
+    "description": "Learn the fundamentals of digital marketing, SEO, and social media campaigns."
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Development",
+    "category": "Development",
+    "duration": "4 Months",
+    "rating": 4.5,
+    "image": "https://picsum.photos/300/202",
+    "description": "Learn the Fundamental of Mobile App Development With Flutter !!!"
+  },
+  {
+    "id": 4,
+    "title": "Web Development",
+    "category":"Development",
+    "duration": "2 Months",
+    "rating": 4.6,
+    "image": "https://picsum.photos/300/203",
+    "description": "Learn the Fundamental of Web Development(HTML,CSS & JS)"
+
+  },
+  {
+    "id": 5,
+    "title": "UI/UX",
+    "category": "Development",
+    "duration": "4weeks",
+    "rating": 4.8,
+    "image": "https://picsum.photos/300/204",
+    "description": "Learn the Art of UI/UX"
+  },
+  {
+    "id": 6,
+    "title": "Data Analyst",
+    "category": "Development",
+    "duration": "4weeks",
+    "rating": 4.8,
+    "image": "https://picsum.photos/300/205",
+    "description": "Learn the Fundamental of Data Analyst from scratch "
+  },
+  {
+    "id": 7,
+    "title": "UI/UX",
+    "category": "Development",
+    "duration": "4weeks",
+    "rating": 4.8,
+    "image": "https://picsum.photos/300/204",
+    "description": "Learn the Art of UI/UX"
+  },
+  {
+    "id": 8,
+    "title": "Cyber Security",
+    "category": "Security",
+    "duration": "4weeks",
+    "rating": 4.8,
+    "image": "https://picsum.photos/300/204",
+    "description": "Learn the Art of UI/UX"
+  }
+]
